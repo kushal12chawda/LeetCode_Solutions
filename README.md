@@ -15,8 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
