@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
