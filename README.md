@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1415-students-and-examinations) |
+| [1452-restaurant-growth](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1664-find-users-with-valid-e-mails](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1664-find-users-with-valid-e-mails) |
