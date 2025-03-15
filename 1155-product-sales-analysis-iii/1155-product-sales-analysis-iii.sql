@@ -4,11 +4,7 @@ WITH ProductToYear AS (
     FROM Sales
     GROUP BY product_id
 )
-SELECT
-    Sales.product_id,
-    ProductToYear.year AS first_year,
-    Sales.quantity,
-    Sales.price
+SELECT Sales.product_id, ProductToYear.year AS first_year, Sales.quantity, Sales.price
 FROM Sales
 INNER JOIN ProductToYear
 ON Sales.product_id = ProductToYear.product_id 
