@@ -77,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0031-next-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
