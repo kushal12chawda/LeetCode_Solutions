@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
