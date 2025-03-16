@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0062-unique-paths) |
 ## Stack
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0062-unique-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
