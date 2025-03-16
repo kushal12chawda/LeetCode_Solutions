@@ -96,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0075-sort-colors) |
 ## Combinatorics
 |  |
 | ------- |
