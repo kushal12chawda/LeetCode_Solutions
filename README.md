@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0072-edit-distance) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0046-permutations) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Sorting
 |  |
 | ------- |
