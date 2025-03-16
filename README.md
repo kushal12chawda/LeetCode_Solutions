@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
