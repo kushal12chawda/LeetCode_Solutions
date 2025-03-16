@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0072-edit-distance) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 ## Two Pointers
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Tree
 |  |
 | ------- |
