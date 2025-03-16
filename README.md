@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0057-insert-interval) |
 ## Two Pointers
 |  |
 | ------- |
