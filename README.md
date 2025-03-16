@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
