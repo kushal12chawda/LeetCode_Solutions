@@ -9,8 +9,6 @@ class Solution(object):
                 if i.isnumeric():
                     s1 = s1 + str(i)
         s2 = s1[::-1]
-        print s1
-        print s2
         if s1 == s2:
             return True
         else:
