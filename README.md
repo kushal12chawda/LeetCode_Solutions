@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Stack
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Greedy
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## String Matching
 |  |
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
