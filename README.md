@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
+| [2308-divide-array-into-equal-pairs](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Database
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2308-divide-array-into-equal-pairs](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 ## Two Pointers
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2308-divide-array-into-equal-pairs](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0812-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
