@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0136-single-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Database
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0136-single-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
