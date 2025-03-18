@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0539-minimum-time-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0722-remove-comments](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0722-remove-comments) |
 | [0812-rotate-string](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0812-rotate-string) |
 | [0827-expressive-words](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0827-expressive-words) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0539-minimum-time-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0722-remove-comments](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0722-remove-comments) |
 | [0827-expressive-words](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0827-expressive-words) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
