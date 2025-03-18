@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0179-largest-number) |
+| [0474-ones-and-zeroes](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0539-minimum-time-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0722-remove-comments) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0139-word-break) |
+| [0474-ones-and-zeroes](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Stack
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0179-largest-number) |
+| [0474-ones-and-zeroes](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0539-minimum-time-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0722-remove-comments) |
