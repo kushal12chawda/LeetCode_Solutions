@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0079-word-search) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
