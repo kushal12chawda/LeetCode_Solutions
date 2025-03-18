@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0812-rotate-string](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0120-triangle) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Greedy
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0079-word-search) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Tree
 |  |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
