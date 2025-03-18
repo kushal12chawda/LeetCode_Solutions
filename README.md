@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0062-unique-paths) |
+| [0258-add-digits](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -214,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
