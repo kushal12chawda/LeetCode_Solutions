@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0539-minimum-time-difference) |
 | [0812-rotate-string](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0812-rotate-string) |
+| [0827-expressive-words](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0827-expressive-words) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2580-circular-sentence](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2580-circular-sentence) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0539-minimum-time-difference) |
+| [0827-expressive-words](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0827-expressive-words) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+| [0827-expressive-words](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0827-expressive-words) |
 ## Binary Search
 |  |
 | ------- |
