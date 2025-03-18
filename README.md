@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0812-rotate-string](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0139-word-break) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Stack
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0139-word-break) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0139-word-break) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
@@ -228,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0258-add-digits) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kushal12chawda/LeetCode_Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
